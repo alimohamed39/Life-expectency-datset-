@@ -18,9 +18,9 @@ The workflow includes careful feature inspection, missing value handling, and mo
   - Random Forest Regressor  
   - Gradient Boosting Regressor  
   - Model evaluation with metrics (R², MAE, RMSE)  
-
+## Conclusion
+the dataset is too small after cleaning to have good accuracy of predictions.
 ---
 
 
-   git clone https://github.com/your-username/life-expectancy-prediction.git
-   cd life-expectancy-prediction
+ 
